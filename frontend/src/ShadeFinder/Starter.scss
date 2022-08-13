@@ -1,0 +1,60 @@
+.Starter{
+    background-image: url(./start.png);
+    height:500px;
+    background-repeat: no-repeat;
+    
+    margin-top: 500px;
+    .icons{
+        left: 1200px;
+        top: 415px;
+        position: relative;
+    }
+    .buttons{
+        background-color: black;
+        color: white;
+        border-radius: 0px;
+        position: absolute;
+        top:350px;
+        left: 550px;
+        font-family: roboto;
+        height: 40px;
+    }
+    .buttonss{
+        background-color: black;
+        color: white;
+        border-radius: 0px;
+        position: absolute;
+        top:415px;
+        height: 50px;
+        left: 545px;
+        font-family: roboto;
+    }
+    @media only screen and (max-width: 450px) {
+        .buttons{
+          
+            top:280px;
+            left: 100px;
+            height: 50px;
+            
+        }
+        .buttonss{
+            height: 50px;
+            top:355px;
+            left: 100px;
+          
+        }   
+        .icons{
+            left: 0px;
+            top: 415px;
+            position: relative;
+        }
+    }
+    @media only screen and (max-width: 1280px) {
+        .icons{
+            left: 0px;
+            top: 415px;
+            position: relative;
+        }
+
+    }
+}

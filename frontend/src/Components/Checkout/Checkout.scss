@@ -1,0 +1,46 @@
+.checkout{
+    background: linear-gradient(180deg, #EDD3C4 0%, #D49C79 100%);
+
+    .Summary{
+        margin-top:8rem; 
+    }
+    
+    
+
+ .formss{
+     h5{
+        font-family: Metamorphous;
+        font-size: 45px;
+        margin-top: 40px;
+     }
+     p{
+         color:#622525 ;
+         font-family: Roboto;
+         font-size: 14px;
+         margin-bottom: 4px;
+         margin-top:30px;
+     }
+     .form-group{
+         input{
+             height: 50px;
+             color: #622525;
+             border: 1px solid #622525;
+             margin-bottom:20px ;
+         }
+         .placeholder{
+             font-family: Roboto;
+         }
+     }
+     img{
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+     }
+     .btns{
+         background-color: #622525;
+         height: 50px;
+         width: 180px;
+         color: #EDD3C4;
+         
+     }
+ }
+
+}

@@ -1,0 +1,39 @@
+.final{
+     background: linear-gradient(180deg, #D49C79 0%, #FFFFFF 57.29%);
+     padding-bottom: 70px;
+     background-image: url(../../Components/Sale/background.jpg);
+     h4{
+        font-family: Satisfy;   
+        font-size:50px;
+        color: black; 
+        padding-top: 50px;
+        margin-top: 65px;
+    }
+    h6{
+        color: #832323;
+        font-size: 20px;
+
+    }
+    img{
+        box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    }
+    p{
+        
+    
+        font-family: NovaMono;
+        font-size: 15px;
+    }
+    h6{
+        font-family:Montserrat;
+        margin-bottom: 30px;
+        margin-top: 30px;
+    }
+    .skinButton{
+        font-family: Bembo;
+        font-size: 15px;
+        color: #832323;
+        background-color: white;
+        
+        box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+       }
+}

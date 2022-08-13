@@ -1,0 +1,30 @@
+.advertize{
+    background: linear-gradient(180deg, rgba(212, 156, 121, 0) 0%, #D49C79 99.99%, rgba(212, 156, 121, 0.0104167) 100%);
+    padding: 60px 0px;
+
+img{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+h5{
+    font-family: Satisfy;   
+    font-size: 60px;
+    color: black;
+    margin-bottom: 20px;
+}
+p{
+    font-family: roboto;
+    color: #832323;
+}
+@media only screen and (max-width: 450px) {
+    
+    h5{
+        
+        font-size: 40px;
+        color: black;
+        margin-bottom: 20px;
+    }
+    p{
+      text-align: justify;
+    } 
+}
+}

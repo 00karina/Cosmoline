@@ -1,0 +1,120 @@
+.Detail{
+    background: linear-gradient(180deg, #FFFFFF 0%, #D49C79 100%);
+
+.detailProduct{
+    margin-top:31rem;  
+    min-height: 500px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(../../Components/ProductDetails/white.jpg);
+ 
+}
+.title{
+font-family: Philosopher;
+font-size:55px;
+line-height:60px;
+margin-top:9rem;
+margin-left: 60px;
+width: 400px;
+position: relative;
+color: #832323;
+}
+.detailPrice{
+    font-family: Philosopher;
+    font-size:25px;
+    color: #832323;
+    margin-top: 15px;
+    text-align: center;
+}
+.detailText{
+font-family: Darker Grotesque;
+font-size: 15px;
+line-height:26px;
+color: #000000;
+margin-top:20px;
+margin-left: 60px;
+
+}
+.detailImg{
+width: 500px;
+height: 630px;
+left: 812px;
+box-shadow: inset 4px 4px 6px rgba(0, 0, 0, 0.25);
+backdrop-filter: blur(6px);
+border-radius: 3px;
+}
+.btnWhite{
+    background-color: white;
+    width:200px;
+    height:50px;
+    margin-top:20px;
+    filter: blur(0.5px);
+    color: #832323;
+    font-family: Cambay;
+    border:1px solid #832323;
+}
+.detailsRoundImg{
+width:320px;
+height:320px;
+margin-top:20px;
+box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+
+}
+.MoreDetails{
+    margin-top:20px;
+font-family: Philosopher;
+font-size:36px;
+
+}
+.MoredetailText{
+font-family: Darker Grotesque;
+font-size: 14px;
+color: #000000;
+text-align: justify;
+line-height:26px;
+
+
+}
+.youtubeVideo{
+margin-top:5rem;
+}
+.youtubeTitle{
+font-family: Philosopher;
+font-size:45px;
+color: #832323;
+margin-top:3rem;
+}
+.youtubeText{
+    font-family: Darker Grotesque;
+    font-size: 14px;
+    color: #000000;
+    text-align: justify;
+    
+}
+}
+.rating{
+    margin-top:60px;
+  h1{
+      color:#832323;
+      font-family: Darker Grotesque;
+      padding-bottom: 40px;
+  }
+  strong{
+    color:#832323;
+    font-family: Darker Grotesque;
+  }
+  p{
+      font-family: Roboto;
+      color: rgb(43, 41, 41);
+  }
+}
+.comment{
+    h1{
+        color:#832323;
+      font-family: Darker Grotesque;
+      padding-bottom: 20px;
+      padding-top: 30px;
+    }
+}

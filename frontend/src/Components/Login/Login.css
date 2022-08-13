@@ -1,0 +1,69 @@
+.Login{
+    background: linear-gradient(180deg, #FFFFFF 0%, #D49C79 100%);
+    height:560px;
+    background-image: url(../Sale/background.jpg);
+    margin-top: 65px;
+}
+.LoginBox{
+    background: white;
+    position: absolute;
+    top: 150px;
+    width: 50%;
+    left: 25%;
+    height: 400px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.form__login{
+	border: none;
+    position: relative;
+    margin-top:15px;
+  border-bottom: 1px solid  #832323;
+  border-radius: 0;
+  color: #7f2549;
+  font-family:Ogg Regular;
+  padding: .4375rem 1.125rem;
+  text-align: left;
+  width: 50%;
+  left: 25%;
+  font-size: 1rem;
+  
+  
+
+}
+
+input:focus {
+	outline: none;
+  	
+}
+.loginHeading{
+font-family: Philosopher;
+margin-top: 50px;
+font-size:35px;
+color: #832323;
+}
+.loginButton{
+	background-color:#832323 ;
+	color:white;
+	border-radius: 0%;
+	
+    position: absolute;
+    width: 50%;
+    left: 25%;
+    top:240px;
+    
+	
+}
+.loginButton:hover{
+color: #FFFFFF;
+box-shadow: none;
+
+
+}
+.SignUpButton{
+	font-family:Ogg Regular;
+	position: relative;
+	top:90px ;
+}
+u{
+	color:#832323;
+}

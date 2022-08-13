@@ -1,0 +1,60 @@
+.Register{
+    background: linear-gradient(180deg, #FFFFFF 0%, #D49C79 100%);
+    height:600px;
+     background-image: url(../Sale/background.jpg);
+    margin-top: 65px;
+}
+.RegisterBox{
+    background: white;
+    position: absolute;
+    top: 100px;
+    width: 50%;
+    left: 25%;
+    height: 550px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.form__register{
+	border: none;
+    position: relative;
+    margin-top:15px;
+  border-bottom: 1px solid  #832323;
+  border-radius: 0;
+  color: #7f2549;
+  font-family:Ogg Regular;
+  padding: .4375rem 1.125rem;
+  text-align: left;
+  width: 50%;
+  left: 25%;
+  font-size: 1rem;
+  
+  
+
+}
+
+input:focus {
+	outline: none;
+  	
+}
+.RegisterHeading{
+font-family: Philosopher;
+margin-top: 50px;
+font-size:35px;
+color: #832323;
+}
+.RegisterButton{
+	background-color:#832323 ;
+	color:white;
+	border-radius: 0%;
+	box-shadow: 5px 5px #888888;
+    position: absolute;
+    width: 50%;
+    left: 25%;
+    top:460px;
+    
+	
+}
+.RegisterButton:hover{
+color: #FFFFFF;
+box-shadow: none;
+
+}

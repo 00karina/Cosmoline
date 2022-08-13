@@ -1,0 +1,97 @@
+.header1{
+margin-left:3rem;
+font-family: Philosopher;
+
+}
+.Finder{
+    overflow: hidden; 
+    margin-top: -30px; 
+}
+
+.header2{
+margin-left: 3rem;
+font-family: Philosopher;
+font-size:20px;
+}
+i{
+font-family: Satisfy;
+color: #6F2833;
+}
+.ShadeParagraph{
+width: 1000px;
+height: 64px;
+margin-left:50px;
+margin-top: 20px;
+font-family: Rubik;
+font-size: 13px;
+line-height: 32px;
+color: #000000;
+}
+.btn-match{
+width: 150px;
+height: 55px;
+margin-left: 50px;
+margin-top: 10px;
+background: #FFFFFF;
+border: 1px solid #832323;
+box-sizing: border-box;
+font-family: Rubik;
+color:#832323 ;
+}
+.images1{
+    margin-top:4rem;
+    width: 300px;
+    height:300px;
+}
+.images2{
+    width: 270px;
+    margin-top:4rem;
+    height:300px;
+}.images3{
+    margin-top:4rem;
+    width: 300px;
+    height:300px;
+    
+}
+
+@media only screen and (max-width: 450px) {
+    .ShadeParagraph{
+     width: 300px;
+     font-size: 11px;
+     line-height: 20px;
+     margin-left:32px;
+     }
+     .btn-match{
+        width: 140px;
+        height: 45px;
+        margin-left: 35px;
+        margin-top:15px;
+      }
+      .header1{
+        margin-left:35px;   
+        }
+        .header2{
+        margin-left: 35px;
+        font-size:20px;
+        }
+        .images1{
+            margin-top:4rem;
+            width: 90px;
+            height:90px;
+        }
+        .images2{
+            width: 110px;
+            height:120px;
+            margin-top:40px;
+        }.images3{
+            margin-top:4rem;
+            width: 90px;
+            height:90px;
+        }
+        .scale{
+          width: 340px;
+        }
+     
+        
+
+  } 

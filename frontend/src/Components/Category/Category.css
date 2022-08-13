@@ -1,0 +1,90 @@
+.Category{
+    background: linear-gradient(180deg, rgba(212, 156, 121, 0) 0%, #D49C79 99.99%, rgba(212, 156, 121, 0.0104167) 100%);
+   margin-top:5rem;
+   padding-bottom: 30px;
+}
+h3{
+width: 350px;
+height: 108px;
+font-family: Philosopher;
+font-style: normal;
+font-weight: normal;
+font-size: 65px;
+line-height: 90px;
+color: #832323;
+top:110px;
+left:30px;
+position: relative;
+}
+.pic1{
+    width: 430px;
+    margin-top:16rem;
+    
+}
+.pic2{
+    width: 450px;
+}
+.pic3{
+    width: 500px;
+    margin-top: -100px;
+    
+}
+.Face{
+font-family: NovaMono;
+font-size: 35px;
+line-height: 89px;
+color: #832323;
+}
+.eye{
+font-family: NovaMono;
+font-size: 35px;
+line-height: 89px;
+color: #6F2833;
+}
+.lip{
+font-family: NovaMono;
+font-size:35px;
+line-height: 89px;
+color: #6F2833;
+
+}
+@media only screen and (max-width: 450px) {
+    .pic1{
+        width: 150px;
+        margin-top:8rem;
+        
+    }
+    .pic2{
+        width: 150px;
+        
+    }
+    .pic3{
+        width: 160px;
+        
+        
+    }
+    .Face{
+        
+        font-size: 20px;
+        margin-top: -20px;
+        }
+        .eye{
+        
+        font-size: 20px;
+        margin-top: -20px;
+        
+        }
+        .lip{
+            margin-top: -65px;
+            font-size: 20px;
+        
+        }
+        h3{
+            text-align: center;
+            font-size: 30px;
+            line-height:32px;
+            color: #832323;
+            margin-left: -60px;
+            width: 200px;
+            }
+}
