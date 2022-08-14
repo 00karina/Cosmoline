@@ -151,6 +151,7 @@ const App = () => {
         <Route exact path="/shop/" component={Shop}/>
         <Route exact path="/login/" component={Login}/>
         <Route exact path="/register/" component={Register}/>
+        <Route exact path="/addcart/" component={AddCart}/>
         <Route exact path="/change-password/" component={ChangePassword}/>
         <Route exact path="/change-password/confirm/" component={FinalChange}/>
         <Route exact path='/pages/faqs' component={FAQ}/>
